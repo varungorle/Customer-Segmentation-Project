@@ -67,7 +67,7 @@ Customer-Segmentation-Project/
 ## Step 1: Clone Repository
 
 ```bash
-git clone <[your-github-repository-link](https://github.com/varungorle/Customer-Segmentation-Project)>
+git clone <https://github.com/varungorle/Customer-Segmentation-Project>
 ```
 
 ## Step 2: Navigate to Project Folder
